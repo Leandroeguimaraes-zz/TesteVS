@@ -9,8 +9,12 @@
  * @author Leandro
  */
 public class NewClass {
+    public void aaa(){
+        
+    }
         public static void main(String[] args) {
             System.out.println("askasja");
-            System.out.println("3121243");
+
+
     }
 }
